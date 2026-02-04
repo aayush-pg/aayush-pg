@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://curiouslymotivated.me" style="text-decoration:none " target="_blank">Aayush Kesharwani</a> <img
 src="images/codegif2U.gif" height="32" style="" /></h1>
-<br />
+<br />     
 
 **Hi, I'm Aayush Kesharwani, a fullstack developer trying to improve to **build** cool things and always on the look for learning opportunities!!**
 
