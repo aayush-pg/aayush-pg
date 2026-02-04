@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://curiouslymotivated.me" style="text-decoration:none " target="_blank">Dhrish Parekh</a> <img
+<h1 align="center">Hi there, I'm <a href="https://curiouslymotivated.me" style="text-decoration:none " target="_blank">Aayush Kesharwani</a> <img
 src="images/codegif2U.gif" height="32" style="" /></h1>
 <br />
 
-**Hi, I'm Dhrish Parekh, a fullstack developer trying to improve to **build** cool things and always on the look for learning opportunities!!**
+**Hi, I'm Aayush Kesharwani, a fullstack developer trying to improve to **build** cool things and always on the look for learning opportunities!!**
 
-<a href="#" style="postion:relative;bottom:10px;"><img  src="https://github.com/DhrishP/DhrishP/blob/main/images/boatgif.gif" align="center" height="100"     /></a>
+<a href="#" style="postion:relative;bottom:10px;"><img  src="https://github.com/aayush-pg/aayush-pg/blob/main/images/boatgif.gif" align="center" height="100"  /></a>
 
 <!-- ## <img src="https://cdn.discordapp.com/emojis/828069405426319430.gif?size=4096&quality=lossless" height="30"/> Project Releases
 
